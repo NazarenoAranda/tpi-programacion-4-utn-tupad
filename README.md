@@ -4,10 +4,8 @@ Aplicación web para un negocio de comidas: backend **FastAPI + SQLModel** y fro
 
 - **Alumno:** Nazareno Aranda — Comisión 6
 - **Materia:** Programación 4 — Tecnicatura Universitaria en Programación (UTN)
-- **Repositorio:** 
+- **Repositorio:** https://github.com/NazarenoAranda/tpi-programacion-4-utn-tupad.git
 - **Video de demostración:** https://youtu.be/lnP8FqOlm4s
-
-> Antes de entregar: reemplazar la URL del repositorio y el link del video (también en `link_video.txt`).
 
 ---
 
